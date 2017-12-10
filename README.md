@@ -24,7 +24,7 @@ Este proyecto está dividido en 3 partes :
 
    * La segunda parte ; compuesta por una carpeta css con un archivo `main.css`que  en su interior alberga los estilos de la página web bajo la siguiente estructura : primero se procedió a resetear los estilos que por defecto tiene el navegador a travéz de un selector universal ; luego se procedió a crear una grilla de tres columnas para asegurarnos de que el contenido no se desborde ;despues se crearon los estilos para dispositivos mobile ,tablets y desktops ;ademas se crearon clases mas generales(de sufijo properties) que permaneceran sin importar que la pagina cambie de tamaño.
 
-   * Tercera parte ; que tiene una carpeta de nombre images donde se guardarn las imagenes necesarias para el desarrollo de este proyecto.
+   * Tercera parte ; que tiene una carpeta de nombre assets donde se guardarn las imagenes necesarias para el desarrollo de este proyecto.
 
 ***
 ## Lenguajes utilizados :
